@@ -1,0 +1,4 @@
+x destra
+y uscente 
+z sotto
+
