@@ -1,5 +1,5 @@
 # :game_die: Computer Graphics - Project 
-This is the repository for the projects of the Computer Graphics course held at [Polimi](https://www.polimi.it/).
+This is the repository for the projects of Computer Graphics course held at [Polimi](https://www.polimi.it/).
 
 The course held on 3 main topics:
 * Basic 3D graphics
